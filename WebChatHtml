@@ -37,13 +37,13 @@
 			'https://tnsi--r4omni.sandbox.my.site.com/TNSI',
 			gslbBaseURL,
 			'00D23000000GBtU',
-			'R4_Web_Chat',
+			'R4_Web_Chat_queue',
 			{
 				baseLiveAgentContentURL: 'https://c.la1-c1cs-ia2.salesforceliveagent.com/content',
 				deploymentId: '57223000000CbJT',
 				buttonId: '57323000000Cb3t',
 				baseLiveAgentURL: 'https://d.la1-c1cs-ia2.salesforceliveagent.com/chat',
-				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I23000000CajEEAS_18b7238942a',
+				eswLiveAgentDevName: 'R4_Test_Web_Chat_queue',
 				isOfflineSupportEnabled: false
 			}
 		);
